@@ -1,0 +1,32 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+   list-style: none;	
+   font-family: "Inter", sans-serif;
+   scroll-behavior: smooth;
+
+}
+/*header.sticky{
+    padding: 12px 14%;
+    background: var(--other-color);
+ }*/
+ /*.btn{
+	display: inline-block;
+	padding: 15px 30px;
+	background: transparent;
+	color: var(--text-color);
+	font-size:15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .05em;
+    border-radius: 30px;
+    border: 2px solid var(--main-color);
+    box-shadow: 2px 2px var(--main-color);
+    transition: all .6s ease;
+    margin-right: 30px;
+}*/
+
+
+ 
